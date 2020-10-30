@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T06:46:49.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="0ZmUGHVIfsgHwzFVGXHX" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T07:25:51.864Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="9egy-3j_luRg3Y4eJn39" version="13.8.1" type="github">
   <diagram id="YVggR_SqwR1qEsMGm2nK" name="Page-1">
-    <mxGraphModel dx="809" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1003" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,16 +85,16 @@
         <mxCell id="Jk7-eTZNPEbHa-RgvJYL-20" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;拋料率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="630" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-21" value="參考附件一page2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-21" value="參考附件一page2 數據預處理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-22" value="參考附件一page5、6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-22" value="參考附件一page5、6模型應用說明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="550" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-23" value="參考附件一page3、4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-23" value="參考附件一page3、4 算法演算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="800" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-24" value="詳細圖示參考附件一page1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-24" value="詳細圖示參考附件一page1 技術說明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="50" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jk7-eTZNPEbHa-RgvJYL-25" value="見附件九" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="Jk7-eTZNPEbHa-RgvJYL-28" value="計算良率的數據見附件六、七" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="640" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-29" value="前端展示見附件二、三、四、五" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="940" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
