@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T06:45:06.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="VqSatUG3NUjsrOgtIypW" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T06:46:49.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="0ZmUGHVIfsgHwzFVGXHX" version="13.8.1" type="github">
   <diagram id="YVggR_SqwR1qEsMGm2nK" name="Page-1">
     <mxGraphModel dx="809" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="Jk7-eTZNPEbHa-RgvJYL-27" value="算法公式及介紹見附件八" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="600" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-28" value="計算良率的數據見附件六、七" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
