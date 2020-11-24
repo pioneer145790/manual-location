@@ -1,88 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T06:01:58.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="qXLAOGHlIb_XHLwWdLq6" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T01:23:45.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0gRTosGvrCkmpaX7z_r0" version="13.9.9" type="github">
   <diagram id="YVggR_SqwR1qEsMGm2nK" name="Page-1">
-    <mxGraphModel dx="963" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1253" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NF-i37rxTWXbvh0fXEa0-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="NF-i37rxTWXbvh0fXEa0-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="395" y="100" as="sourcePoint" />
             <mxPoint x="395" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NF-i37rxTWXbvh0fXEa0-5" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px&quot;&gt;拋料、AOI原始數據&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NF-i37rxTWXbvh0fXEa0-5" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px&quot;&gt;拋料、AOI原始數據&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NF-i37rxTWXbvh0fXEa0-6" value="數據清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NF-i37rxTWXbvh0fXEa0-6" value="數據清洗" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NF-i37rxTWXbvh0fXEa0-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;卡爾曼濾波&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;降噪除去干擾；&lt;/p&gt;&lt;p&gt;數理統計，箱型圖，趨勢圖走勢觀察法；&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NF-i37rxTWXbvh0fXEa0-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;卡爾曼濾波&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;降噪除去干擾；&lt;/p&gt;&lt;p&gt;數理統計，箱型圖，趨勢圖走勢觀察法；&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="465" y="150" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NF-i37rxTWXbvh0fXEa0-8" value="收集各類拋料、AOI良率相關數據" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NF-i37rxTWXbvh0fXEa0-8" value="收集各類拋料、AOI良率相關數據" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="405" y="120" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NF-i37rxTWXbvh0fXEa0-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="NF-i37rxTWXbvh0fXEa0-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="394.5" y="240" as="sourcePoint" />
             <mxPoint x="395" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bCzsvnsTS2TMmKOJLa1n-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="bCzsvnsTS2TMmKOJLa1n-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="394.5" y="400" as="sourcePoint" />
             <mxPoint x="394.5" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bCzsvnsTS2TMmKOJLa1n-3" value="模型構建" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bCzsvnsTS2TMmKOJLa1n-3" value="模型構建" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="366" y="770" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bCzsvnsTS2TMmKOJLa1n-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="bCzsvnsTS2TMmKOJLa1n-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405.5" y="850" as="sourcePoint" />
             <mxPoint x="405.5" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bCzsvnsTS2TMmKOJLa1n-5" value="貼片機剩餘保養預測" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bCzsvnsTS2TMmKOJLa1n-5" value="貼片機剩餘保養預測" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="346" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bCzsvnsTS2TMmKOJLa1n-6" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;數據分析&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;通過均值、最大/小值、極差、中位數、標準差、均方根、四分衛差、期望、方差、相位、卡爾曼濾波值、單位密度、離散係數特徵值分析數據規律&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bCzsvnsTS2TMmKOJLa1n-6" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;數據分析&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;通過均值、最大/小值、極差、中位數、標準差、均方根、四分衛差、期望、方差、相位、卡爾曼濾波值、單位密度、離散係數特徵值分析數據規律&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="455" y="300" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bCzsvnsTS2TMmKOJLa1n-10" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Apriori關聯規則算法&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;通過FP-growth算法找到拋料與良率的頻繁項集，再通過Apriori算法計算關聯係數&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bCzsvnsTS2TMmKOJLa1n-10" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Apriori關聯規則算法&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;通過FP-growth算法找到拋料與良率的頻繁項集，再通過Apriori算法計算關聯係數&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="620" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bCzsvnsTS2TMmKOJLa1n-11" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;指數分佈函數&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;通過指數分佈函數計算吸嘴剩餘保養時間；將關聯後的數據進行指數分佈繪圖，預測保養週期內後期走勢&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bCzsvnsTS2TMmKOJLa1n-11" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;指數分佈函數&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;通過指數分佈函數計算吸嘴剩餘保養時間；將關聯後的數據進行指數分佈繪圖，預測保養週期內後期走勢&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="466" y="760" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-2" value="&lt;h1&gt;流程概述&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;本模型數據處理流程為從產線mysql、mongoDB數據庫分別獲取拋料、AOI貼裝原數據伊始，經過數據清洗去除異常值，再從中提取相關特徵進行數據分析，通過關聯貼裝前的吸料成功率與貼裝後的良率，尋找關聯性，整合進指數分佈函數進行預測繪圖，從而預測出剩餘保養時間，科學維護貼片機，提高產品良率，延長設備使用壽命。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-2" value="&lt;h1&gt;流程概述&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;本模型數據處理流程為從產線mysql、mongoDB數據庫分別獲取拋料、AOI貼裝原數據伊始，經過數據清洗去除異常值，再從中提取相關特徵進行數據分析，通過關聯貼裝前的吸料成功率與貼裝後的良率，尋找關聯性，整合進指數分佈函數進行預測繪圖，從而預測出剩餘保養時間，科學維護貼片機，提高產品良率，延長設備使用壽命。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="1020" width="610" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;流程圖&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;流程圖&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="10" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405.5" y="670" as="sourcePoint" />
             <mxPoint x="406" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;趨勢分析&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;通過繪製數據分析走勢圖，實時觀察生產狀態，為數據建模做準備。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;趨勢分析&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;通過繪製數據分析走勢圖，實時觀察生產狀態，為數據建模做準備。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="500" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-8" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;特徵提取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-8" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;特徵提取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-11" value="&lt;h1 style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;趨勢分析&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-11" value="&lt;h1 style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;趨勢分析&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="480" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-18" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Apriori關聯&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-18" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Apriori關聯&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="585" width="170" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-19" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;AOI良率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-19" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;AOI良率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="630" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-20" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;拋料率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jk7-eTZNPEbHa-RgvJYL-20" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;拋料率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="630" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
